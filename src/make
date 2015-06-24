@@ -1,0 +1,1 @@
+browserify app.js | uglifyjs > ../html/main.js
