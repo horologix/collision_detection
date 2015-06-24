@@ -1,7 +1,7 @@
 Collision Detection using Separating Axis Theorem
-=================================================
+-------------------------------------------------
 
-Live demo hosted [here](mir-aerie.rhcloud.com/collision/).
+Live demo hosted [here](http://mir-aerie.rhcloud.com/collision/).
 
 Run demo from `/html`.
 To bundle and minify the source run: `/.make` in `/src`.
